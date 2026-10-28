@@ -1,5 +1,7 @@
 # x402 paid agent starter
 
+[![CI](https://github.com/landingen24h/x402-paid-agent-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/landingen24h/x402-paid-agent-starter/actions/workflows/ci.yml)
+
 A small, tested starting point for a paid agent on LAX, in two editions: TypeScript and Python.
 Each edition has one free route and one paid route priced in USDC over x402 on Base, a LAX offer
 that passes the registry check (with the Five Laws), and a listing helper.
